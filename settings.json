@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "onelifesmp-oJKn.aternos.me:16548",
+    "port": 16548,
     "version": "",
     "try-creative": false
   },
